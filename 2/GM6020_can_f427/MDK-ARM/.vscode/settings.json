@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.suggestSnippets": true,
+    "C_Cpp.intelliSenseUpdateDelay": 300,
+    "C_Cpp.default.cStandard": "c11",
+
+    "editor.tabCompletion": "on",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+
+    "files.associations": {
+        "*.h": "c"
+    },
+    "files.encoding": "utf8"
+}

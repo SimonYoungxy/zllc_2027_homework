@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F427",
+            "includePath": [
+                "${workspaceFolder}/../Core/Inc",
+                "${workspaceFolder}/../Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/../Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/../Drivers/CMSIS/Include"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32F427xx"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "compilerPath": "C:/Users/Miracle/.eide/tools/gcc_arm/bin/arm-none-eabi-gcc.exe",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/../Core",
+                    "${workspaceFolder}/../Drivers"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

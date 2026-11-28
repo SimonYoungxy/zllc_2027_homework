@@ -31,18 +31,18 @@ virtualFolder:
       folders:
         - name: STM32F1xx_HAL_Driver
           files:
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_can.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
-            - path: C:/Users/Miracle/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.7/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_can.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
+            - path: C:\Users\Miracle\STM32Cube\Repository\STM32Cube_FW_F1_V1.8.7\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
           folders: []
         - name: CMSIS
           files:
